@@ -9,7 +9,7 @@ Bundle "johntyree/time-lapse.vim"
 map <leader>gt :call TimeLapse() <cr> 
 ```
 
-## README
+## Original README
 
 ### Description
 You're editing a file which is in a git repository. Press a key which opens a
