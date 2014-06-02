@@ -2,14 +2,12 @@ time-lapse.vim
 ==============
 
 A fork of [Vim Script #3849][vimscript]: "git-time-lapse : Perforce-style" by
-Ben Cotterell
+*Ben Cotterell*
 
 ```vim
 Bundle "johntyree/time-lapse.vim"
 map <leader>gt :call TimeLapse() <cr> 
 ```
-
-## Original README
 
 ### Description
 You're editing a file which is in a git repository. Press a key which opens a
